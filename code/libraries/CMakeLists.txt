@@ -152,4 +152,5 @@ function(AddTestDriver)
 endfunction()
 
 add_subdirectory(config)
+add_subdirectory(infra)
 add_subdirectory(range)
