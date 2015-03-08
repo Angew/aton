@@ -12,6 +12,7 @@ AddAtonLibrary(
 			range_holder.hpp
 	SUBDIR adaptors
 		PUBLIC
+			dereference.hpp
 			transform.hpp
 )
 

@@ -6,5 +6,6 @@ AddTestDriver(
 	LIBRARY range
 	TESTS
 		smoke
+		adaptors/dereference/smoke
 		adaptors/transform/smoke
 )
